@@ -39,10 +39,11 @@
 |メール認証 ||
 
 ## テーブル設計
-![table]()
+![table](https://github.com/seed9103/laravel_Rese/assets/154680643/e9a97e20-bcf2-4e6d-b30e-8a6bafc63857)
 
 ## ER図
-![ER]()
+![ER](https://github.com/seed9103/laravel_Rese/assets/154680643/5e0f5fd1-bde5-4faf-9bb7-3b3851117489)
+
 
 ## 環境構築
 
@@ -83,13 +84,3 @@ php artisan db:seed
 ## URL
 - 開発環境：http://localhost/
 - phpMyAdmin:：http://localhost:8080/# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
-# laravel_Rese
