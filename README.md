@@ -39,15 +39,15 @@
 |メール認証 ||
 
 ## テーブル設計
-![table](https://github.com/seed9103/laravel_Atte/assets/154680643/c9e4e577-e595-4ab1-9947-987809a723c1)
+![table]()
 
 ## ER図
-![ER](https://github.com/seed9103/laravel_Atte/assets/154680643/3746872f-5885-4b6a-8551-d34eef55b7fe)
+![ER]()
 
 ## 環境構築
 
 - Dockerビルド  
-1.`git@github.com:seed9103/laravel_Atte.git`  
+1.git@github.com:seed9103/laravel_Rese.git  
 2.`docker-compose up -d --build`
 
 - Laravel環境構築  
