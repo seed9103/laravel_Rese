@@ -83,3 +83,4 @@ php artisan db:seed
 ## URL
 - 開発環境：http://localhost/
 - phpMyAdmin:：http://localhost:8080/# laravel_Rese
+# laravel_Rese
