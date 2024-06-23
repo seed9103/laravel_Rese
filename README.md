@@ -85,3 +85,4 @@ php artisan db:seed
 - phpMyAdmin:：http://localhost:8080/# laravel_Rese
 # laravel_Rese
 # laravel_Rese
+# laravel_Rese
